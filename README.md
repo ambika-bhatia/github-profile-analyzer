@@ -1,1 +1,1 @@
-# 🐙 GitHub Profile Analyzer
+# GitHub Profile Analyzer
