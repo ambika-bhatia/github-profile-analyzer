@@ -1,0 +1,17 @@
+# Environment variables 
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (agar banaya ho)
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
