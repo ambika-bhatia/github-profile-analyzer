@@ -12,6 +12,3 @@ env/
 # OS-specific files
 .DS_Store
 Thumbs.db
-
-# Streamlit cache
-.streamlit/
